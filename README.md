@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Hello+%F0%9F%91%8B+I'm+George;Nice+To+See+You+%F0%9F%99%82" alt="Hello" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Hello+%F0%9F%91%8B+I'm+George;Happy+To+See+You+%F0%9F%99%82" alt="Hello" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=george-sameh&label=Profile%20views&color=0e75b6&style=flat" alt="george-sameh" /> </p>
 
