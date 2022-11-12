@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=george-sameh&label=Profile%20views&color=0e75b6&style=flat" alt="george-sameh" /> </p>
 
-<h3 align="center">A good full stack developer from Egypt 🇪🇬</h3>
+<h3 align="center">A good back-end developer from Egypt 🇪🇬</h3>
 
 - 🌱 I’m currently learning **Game development and some android apps development**
 
